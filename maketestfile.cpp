@@ -15,8 +15,8 @@ int main()
      {
          Vp[i]=new float[n];
 	 for(j=0;j<n;j++)
-//	     Vp[i][j]=10*i+j+1001;
-	     Vp[i][j]=i+j;
+	     Vp[i][j]=10*i+j+1001;
+//	     Vp[i][j]=i+j;
      }
 //=============================================
     ofstream out1("test2.dat");

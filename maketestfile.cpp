@@ -17,6 +17,8 @@ int main()
 	 for(j=0;j<n;j++)
 	     Vp[i][j]=10*i+j+1001;
 //	     Vp[i][j]=i+j;
+//
+//	     try confilct
      }
 //=============================================
     ofstream out1("test2.dat");
